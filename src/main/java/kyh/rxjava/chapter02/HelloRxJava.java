@@ -1,4 +1,4 @@
-package kyh.rxjava;
+package kyh.rxjava.chapter02;
 
 import io.reactivex.Observable;
 
